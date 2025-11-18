@@ -9,7 +9,7 @@
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
-/* @font-face {
+@font-face {
   font-family: AvenirBlack;
   src:   url("../../fonts/AvenirLTStd-Black.otf") format("opentype");
 }
@@ -82,7 +82,7 @@
 }
 .avenir-font-black {
   font-family: Avenir;
-} */
+}
 
 .text-black {
   color: #1b1b1b;
